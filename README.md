@@ -1,6 +1,6 @@
- <h1 align="left">Santhosh2508.github.io</h1>
+# Santhosh2508.github.io
 
-                                                          **Touch Typing**
+                                                          **Touch Typing**                                                              
    
 
 
