@@ -1,6 +1,6 @@
-# santhosh2508.github.io
+ <h1 align="center">Santhosh2508.github.io</h1>
 
-                                                            **Touch Typing**
+                                                          **Touch Typing**
    
 
 
@@ -24,7 +24,7 @@ These are some well-known websites where you can learn touch typing:
 
 [->	Typingclub.com](https://www.Typingclub.com)
 
-[->	Radatype.com](https://www.Radatype.com)
+[->	Ratatype.com](https://www.Ratatype.com)
 
 [->	10fastfingers.com](https://www.10fastfingers.com)
 
