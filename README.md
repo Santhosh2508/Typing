@@ -1,4 +1,4 @@
-# Santhosh2508.github.io
+# santhosh2508.github.io
 
                                                           **Touch Typing**                                                              
    
